@@ -61,15 +61,14 @@ HAR_wearable-sensors/
 ├── HAR_ImageProcessing_Complete.ipynb   # Main notebook (run on Colab with GPU)
 ├── README.md
 │
-├── images/                              # Add your output visualizations here
+├── images/                             +
 │   ├── confusion_matrix_cnn.png
-│   ├── confusion_matrix_cnnlstm.png
 │   ├── heatmap_samples.png
 │   ├── gaf_samples.png
 │   ├── losocv_accuracy_plot.png
 │   └── activity_distribution.png
 │
-└── results/                             # Optional: LOSOCV predictions & reports
+└──                          
 ```
 
 ---
