@@ -98,9 +98,9 @@ HAR_wearable-sensors/
 
 ---
 
-### Confusion Matrix — CNN-LSTM (GAF)
+### GAF + CNN-LSTM LOSOCV Results
 <!-- Add your CNN-LSTM confusion matrix here -->
-![Confusion Matrix CNN-LSTM](images/confusion_matrix_cnnlstm.png)
+![Confusion Matrix CNN-LSTM](images/losocv_gaf)
 
 ---
 
