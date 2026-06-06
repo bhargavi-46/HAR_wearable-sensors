@@ -76,6 +76,13 @@ HAR_wearable-sensors/
 ## 🖼️ Visualizations
 
 ### Sensor Heatmap Images (Approach 1)
+
+
+### activity_distribution 
+<!-- Add your CNN-LSTM confusion matrix here -->
+![Confusion Matrix CNN-LSTM](images/activity_distribution.png)
+
+
 > Each 128-sample sensor window is converted to a 64×64 RGB heatmap using the Viridis colormap, followed by CLAHE contrast enhancement.
 
 <!-- Add your heatmap sample image here -->
@@ -95,11 +102,6 @@ HAR_wearable-sensors/
 <!-- Add your CNN confusion matrix here -->
 ![Confusion Matrix CNN](images/confusion_matrix_cnn.png)
 
----
-
-### GAF + CNN-LSTM LOSOCV Results
-<!-- Add your CNN-LSTM confusion matrix here -->
-![Confusion Matrix CNN-LSTM](images/losocv_gaf)
 
 ---
 
